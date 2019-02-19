@@ -14,4 +14,4 @@
 * 김세진
 
 ## 토큰 이코노미
-
+https://github.com/setosejin/proj-block/issues/1#issue-411770096
